@@ -83,20 +83,14 @@ Bạn sẽ thấy các dòng bên dưới. Hãy điền thông tin của bạn v
 TOKEN = "TOKEN DISCORD"
 PREFIX = "!"
 BOT_NAME = "NAME BOT"
-```
-
 ```python
 # ========== MINECRAFT SERVER ==========
 SERVER_IP = "IP SEVER MINECRAFT"
 SERVER_PORT = PORT SEVER MINECRAFT
 CHECK_INTERVAL = 30
-```
-
 ```python
 # ========== KENH AUTO THONG BAO ==========
 CHANNEL_ID = ID CHANNEL DISCORD
-```
-
 ```python
 # ========== PICK ROLE ==========
 ROLE_ID = ID ROLE DISCORD
