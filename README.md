@@ -218,8 +218,7 @@ mc-bot/
 ├── README.md           # File hướng dẫn này
 └── cogs/
     ├── __init__.py     
-    ├── minecraft.py    # Lệnh !status, !players, !help
-    ├── auto_check.py   # Tự động ping server 30 giây
+    ├── minecraft.py    # Lệnh 
     └── pick_role.py    # Nút pick role
 ```
 
