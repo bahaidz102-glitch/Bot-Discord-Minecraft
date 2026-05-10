@@ -50,7 +50,7 @@ git clone https://github.com/bahaidz102-glitch/Bot-Discord-Minecraft.git
 ```
 
 ```bash
-cd mc-discord
+cd Bot-Discord-Minecraft/mc-discord
 ```
 
 ### Bước 2: Cài thư viện
@@ -298,18 +298,5 @@ Nếu có lỗi hoặc cần trợ giúp, liên hệ **OK** hoặc tạo Issue t
 
 ---
 
-**Được tạo bởi OK - 2025**
+**Được tạo bởi Bahai 2026**
 ```
-
----
-
-## Cách tạo file README.md
-
-Mở Terminal trong thư mục bot:
-
-```bash
-cd ~/botdiscord/mc-bot
-nano README.md
-```
-
-Paste toàn bộ nội dung trên vào, nhấn `Ctrl+S` để lưu, `Ctrl+X` để thoát.
