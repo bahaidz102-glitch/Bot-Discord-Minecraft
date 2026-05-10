@@ -13,7 +13,6 @@ bot.remove_command('help')
 async def on_ready():
     # Load các module
     await bot.load_extension("cogs.minecraft")
-    await bot.load_extension("cogs.auto_check")
     await bot.load_extension("cogs.pick_role")
     
     print(f"✅ Bot: {bot.user}")
